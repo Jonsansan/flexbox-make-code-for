@@ -27,9 +27,3 @@ body {
   font-weight: 400; /* Regular weight by default */
   font-style: normal; /* Regular style by default */
 }
-
- {
-  background-image: url(other-files\1567685-223495147.jpg);
-  background-size: cover;
-  background-position: center;
-}
